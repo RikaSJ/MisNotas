@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="gris">#10d3ff</color>
-    <color name="colorPrimary">#19afbf</color>
-    <color name="colorPrimaryDark">#63cec1</color>
-    <color name="colorAccent">#818dcf</color>
+    <color name="gris">#c61936dc</color>
+    <color name="colorPrimary">#c61936dc</color>
+    <color name="colorPrimaryDark">#b358a6ff</color>
+    <color name="colorAccent">#c61936dc</color>
     <color name="kimits">#99adc1</color>
     <color name="icons">#FFFFFF</color>
-    <color name="a">#c6a2e1d0</color>
+    <color name="a">#b358a6ff</color>
     <color name="divider">#BDBDBD</color>
     <color name="primary_light">#FFCCBC</color>
-    <color name="dialog">#9dade6</color>
+    <color name="dialog">#c61936dc</color>
 </resources>
